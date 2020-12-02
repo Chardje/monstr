@@ -1,0 +1,13 @@
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.exe
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.deps.json
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.runtimeconfig.json
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.runtimeconfig.dev.json
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.dll
+D:\Users\student\Desktop\C#\monstr\monstr\bin\Debug\netcoreapp3.1\monstr.pdb
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.csprojAssemblyReference.cache
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.AssemblyInfoInputs.cache
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.AssemblyInfo.cs
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.csproj.CoreCompileInputs.cache
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.dll
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.pdb
+D:\Users\student\Desktop\C#\monstr\monstr\obj\Debug\netcoreapp3.1\monstr.genruntimeconfig.cache
