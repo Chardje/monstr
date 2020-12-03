@@ -39,7 +39,7 @@ namespace monstr
             a = 1;
             for (int y = 0; y < 12; y++)
             {
-                for (int x = 0; x < 35; x++)
+                for (int x = 0; x < monstr.Length*7; x++)
                 {
                     if ((x % 7 == 0 || x % 7 == 1) || y == 0)
                     {
@@ -88,7 +88,7 @@ namespace monstr
                     }
                     else if (monstr[i]== monstr[i0]||monstr[i]==0)
                     {
-                        monstr[i] = (byte)R.Next(1, 6);
+                        monstr[i] = (byte)R.Next(1, monstr.Length+1);
                         i0 = -1;
                         
                     }
