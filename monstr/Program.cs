@@ -100,10 +100,15 @@ namespace monstr
         {
             try
             {
-                Console.Write("\nВведiть номер дверi: ");
-                dver = Convert.ToByte(Console.ReadLine());
+                do
+                {
+                    Console.Write("\nВведiть номер дверi: ");
+                    dver = Convert.ToByte(Console.ReadLine());
+                }
+                while (dver<0||dver>monstr.Length);                         
+
             }
-            catch 
+            catch
             {
                 read();
             }
@@ -115,7 +120,7 @@ namespace monstr
             {
                 if (monstr[i]==dver)
                 {
-                    Console.WriteLine("Там був монстр");
+                    Console.WriteLine("Там був монстр");                    
                     game = false;
                 }
             }
